@@ -1,0 +1,175 @@
+body {
+    background: white;
+}
+
+.font {
+    text-align: center;
+}
+
+.cent {
+    text-align: center;
+}
+
+.cen {
+    position: relative;
+    height: 200px;
+    margin: 0 auto
+}
+
+#name {
+    width: 600px;
+    font-size: 200%;
+}
+
+.opcen {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.menuc {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.b {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box1 {
+    text-align: center;
+    width: auto;
+    min-width: 600px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding-top: 1%;
+}
+
+
+
+/*!404 page*/
+
+.page_404 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: "Arvo", serif;
+  }
+  .page_404 img {
+    width: 100%;
+  }
+  .four_zero_four_bg {
+    background-image: url(https://cdn.dribbble.com/users/114645/screenshots/3116362/media/066f44ba628332ed38a0831540ab6e4f.gif);
+    height: 500px;
+    background-position: center;
+  }
+  .four_zero_four_bg h1 {
+    font-size: 80px;
+  }
+  .four_zero_four_bg h3 {
+    font-size: 80px;
+  }
+  .link_404 {
+    color: #fff !important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+  }
+  .contant_box_404 {
+    margin-top: -50px;
+  }
+  
+  /*!400*/
+  .page_400 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: "Arvo", serif;
+  }
+  .page_400 img {
+    width: 100%;
+  }
+  .four_zero_zero_bg {
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height:400px;
+    size: 1000px;
+    background-position: center;
+  }
+  .four_zero_zero_bg h1 {
+    font-size: 80px;
+  }
+  .four_zero_zero_bg h3 {
+    font-size: 80px;
+  }
+  .link_400 {
+    color: #fff !important;
+    padding: 10px 20px;
+    background: #08d456;
+    margin: 20px 0;
+    display: inline-block;
+  }
+  .contant_box_400 {
+    margin-top: -50px;
+  }
+
+/*! 405 */ 
+.page_405 {
+  padding: 40px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+}
+.page_404 img {
+  width: 100%;
+}
+.four_zero_five_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+}
+.four_zero_five_bg h1 {
+  font-size: 80px;
+}
+.four_zero_five_bg h3 {
+  font-size: 80px;
+}
+.link_405 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #39ac31;
+  margin: 20px 0;
+  display: inline-block;
+}
+.contant_box_405 {
+  margin-top: -50px;
+}
+
+/*! 500 */
+.page_400 {
+  padding: 40px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+}
+.page_400 img {
+  width: 100%;
+}
+.five_zero_zero_bg {
+  background-image: url(https://cdn.dribbble.com/users/114645/screenshots/3116766/media/c0dcce082ea4ff029ca5c19a96877b98.gif);
+  height:400px;
+  background-position: center;
+}
+.five_zero_zero_bg h1 {
+  font-size: 80px;
+}
+.five_zero_zero_bg h3 {
+  font-size: 80px;
+}
+.link_500 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #ff770f;
+  margin: 20px 0;
+  display: inline-block;
+}
+.contant_box_500 {
+  margin-top: -50px;
+}
